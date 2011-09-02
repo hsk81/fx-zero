@@ -1,0 +1,6 @@
+[submodule "fx-server"]
+	path = fx-server
+	url = git@github.com:hsk81/fx-server.git
+[submodule "fx-client"]
+	path = fx-client
+	url = git@github.com:hsk81/fx-client.git
